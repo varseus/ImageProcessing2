@@ -1,0 +1,4 @@
+load test/modeltest/testImage.ppm image
+horizontal-flip image flipped
+save flipped test/scriptOutput.png
+quit
